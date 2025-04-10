@@ -25,6 +25,9 @@ return {
 	{ import = "astrocommunity.editing-support.nvim-treesitter-endwise" },
 	{ import = "astrocommunity.editing-support.vim-visual-multi" },
 
+	-- git
+	{ import = "astrocommunity.git.diffview-nvim" },
+
 	-- scroll
 	{ import = "astrocommunity.scrolling.nvim-scrollbar" },
 
